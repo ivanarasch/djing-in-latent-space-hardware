@@ -6,11 +6,6 @@ A custom-built DIY DJ controller combining sensor-based hardware, embedded syste
 
 This project was developed initially as part of a music technology course and later expanded into a master’s thesis, focusing on hands-on instrument design, physical interaction, ethical AI use, and creative authorship.
 
-🎥 Video demo:  
-https://youtu.be/EEeUhQ8b_II
-
-<img src="Media/FinalProduct.jpg" width="600">
-
 
 
 ---
