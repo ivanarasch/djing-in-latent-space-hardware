@@ -1,4 +1,6 @@
-# DIY DJ Controller
+# DJing in Latent Space: DIY DJ Controller (Hardware)
+
+Software: [DJing in Latent Space](https://github.com/ivanarasch/djing-in-latent-space-software) · [Live demo](https://ivanarasch.github.io/djing-in-latent-space-software/neural-dj-v4.html)
 
 A custom-built DIY DJ controller combining sensor-based hardware, embedded systems, and open-source DJ software to explore expressive and physical approaches to digital DJ performance.
 
